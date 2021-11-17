@@ -1,3 +1,0 @@
-# Git homework
-
-Homework
